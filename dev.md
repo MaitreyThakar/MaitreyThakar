@@ -11,7 +11,9 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Full-stack webdev,Datascience...
 - 🌱 I’m currently learning Diploma lastyear in CE
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me just contect me on twitter or linkdl <hr>
+- 📫 How to reach me just contect me on twitter or linkdl
+
+<hr>
 
 
 
