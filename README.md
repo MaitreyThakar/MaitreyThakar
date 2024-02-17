@@ -9,7 +9,7 @@
 
 I'm a programmer on a journey through the world of coding. Welcome to my GitHub profile, where I share my projects and experiences.
 
-- 👀 I’m interested in Full-stack webdev,Datascience...
+- 👀 I’m passionate about Full-stack webdev,Datascience and innovation and problem solving.
 - 🌱 I’m currently learning Diploma lastyear in CE.
   
 ## 🚀 Uncovering the Latest Innovations in Technologies:
