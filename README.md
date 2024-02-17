@@ -24,7 +24,7 @@ Experience the boundless benefits of open-source collaboration and innovation th
 I look forward to collaborating with you and exploring the endless possibilities that lie ahead. Let's connect and embark on this exciting adventure together!
 
 <hr>
-<a href="https://twitter.com/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+<a href="https://twitter.com/Mait_133" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxThmnWGFmvgBgwHVSXBFbkFCXbHVrTkjtfxpjsdZVpFVGCpQWJzSnGbTzFSDHrmcLlsnD" target="_blank"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 </a>
