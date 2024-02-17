@@ -21,7 +21,7 @@ I am always on the lookout for exploring new technologies and leveraging them to
 
 Experience the boundless benefits of open-source collaboration and innovation through my diverse range of projects. Delve into my contributions to various repositories and feel empowered to explore, fork, or contribute to any of my projects. Open source and collaboration are the key pillars driving my project towards excellence and growth. Join me on this journey of creativity and innovation in the world of technology.
 
-## feel greatefull you visit me😊
+## Thanks for visit me😊
 
  thank you for taking the time explore my GitHub profile I am thrilled at the opportunity to connect with you and work together to make the digital world a more exciting and innovative place through the power of code!
 
