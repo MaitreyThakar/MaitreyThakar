@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monospace&color=ea7901&size=50&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Maitrey.;I+Am+a+CE+Student.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/dev-maitrey13)
 
+<!--<div class="HeroCardstyle__CodeCardWrapper-sc-n6jkdr-1 drRQkn"><pre>1&nbsp;&nbsp;class <b>Dev</b> <!-- -->{</pre><pre>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; constructor() <!-- -->{</pre><pre>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.name = "<b>Maitrey</b>";</pre><pre>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.traits = ["<b>DESIGN</b>", "<b>DEV</b>"];</pre><pre>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.age = <!-- -->new Date().getFullYear() - 2001;</pre><pre>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- -->}</pre><pre>7&nbsp;&nbsp;<!-- -->}</pre></div>-->
 <!---
 dev-maitrey13/dev-maitrey13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,11 +14,11 @@ I'm a programmer on a journey through the world of coding. Welcome to my GitHub 
 - 👀 I’m interested in Full-stack webdev,Datascience...
 - 🌱 I’m currently learning Diploma lastyear in CE.
   
-## 🚀 Uncovering the Latest Innovations in Technologies
+## 🚀 Uncovering the Latest Innovations in Technologies:
 
 I am always on the lookout for exploring new technologies and leveraging them to craft impactful solutions. Whether delving into web development, mobile apps, or diving into the realm of data science, my passion drives me to experiment with code and bring concepts to life.
 
-## Embrace the Power of Open Source and Collaboration
+## Embrace the Power of Open Source and Collaboration:
 
 Experience the boundless benefits of open-source collaboration and innovation through my diverse range of projects. Delve into my contributions to various repositories and feel empowered to explore, fork, or contribute to any of my projects. Open source and collaboration are the key pillars driving my project towards excellence and growth. Join me on this journey of creativity and innovation in the world of technology.
 
