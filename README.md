@@ -1,11 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monospace&color=ea7901&size=50&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Maitrey.;I+Am+a+CE+Student.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/dev-maitrey13)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monospace&color=ea7901&size=50&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Maitrey.;I+Am+a+CE+Student.;Nice+to+Meet+You!!!+%F0%9F%98%84)](https://github.com/dev-maitrey13)
 
-<!--<div class="HeroCardstyle__CodeCardWrapper-sc-n6jkdr-1 drRQkn"><pre>1&nbsp;&nbsp;class <b>Dev</b> <!-- -->{</pre><pre>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; constructor() <!-- -->{</pre><pre>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.name = "<b>Maitrey</b>";</pre><pre>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.traits = ["<b>DESIGN</b>", "<b>DEV</b>"];</pre><pre>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.age = <!-- -->new Date().getFullYear() - 2001;</pre><pre>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- -->}</pre><pre>7&nbsp;&nbsp;<!-- -->}</pre></div>-->
-<!---
-dev-maitrey13/dev-maitrey13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # i am Maitrey Thakar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 <hr>
 
