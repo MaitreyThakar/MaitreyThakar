@@ -9,11 +9,13 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 - 👀 I’m interested in Full-stack webdev,Datascience...
-- 🌱 I’m currently learning Diploma lastyear in CE
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me just contect me on twitter or linkdl
-
+- 🌱 I’m currently learning Diploma lastyear in CE.
+ 
 <hr>
+<a href="https://twitter.com/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxThmnWGFmvgBgwHVSXBFbkFCXbHVrTkjtfxpjsdZVpFVGCpQWJzSnGbTzFSDHrmcLlsnD" target="_blank"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 
 
