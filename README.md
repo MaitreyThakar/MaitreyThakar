@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monospace&color=ea7901&size=50&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Maitrey.;I+Am+a+CE+Student.;Nice+to+Meet+You!!!+%F0%9F%98%84)](https://github.com/dev-maitrey13)
 
@@ -28,6 +31,10 @@ I look forward to collaborating with you and exploring the endless possibilities
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxThmnWGFmvgBgwHVSXBFbkFCXbHVrTkjtfxpjsdZVpFVGCpQWJzSnGbTzFSDHrmcLlsnD" target="_blank"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 
