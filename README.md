@@ -31,10 +31,16 @@ I look forward to collaborating with you and exploring the endless possibilities
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxThmnWGFmvgBgwHVSXBFbkFCXbHVrTkjtfxpjsdZVpFVGCpQWJzSnGbTzFSDHrmcLlsnD" target="_blank"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+<a href="https://www.linkedin.com/in/maitrey-thakar-87b218273/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
+</a>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
 
 
 
