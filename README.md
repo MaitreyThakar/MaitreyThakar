@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=hey!&height=100&section=header"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monospace&color=ea7901&size=50&center=true&vCenter=true&width=900&height=100&lines=My+Name+is+Maitrey.;I+Am+a+CE+Student.;Nice+to+Meet+You!!!+%F0%9F%98%84)](https://github.com/dev-maitrey13)
-
 # i am Maitrey Thakar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 <hr>
 
