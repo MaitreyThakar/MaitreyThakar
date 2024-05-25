@@ -24,7 +24,7 @@ Experience the boundless benefits of open-source collaboration and innovation th
 
 I look forward to collaborating with you and exploring the endless possibilities that lie ahead. Let's connect and embark on this exciting adventure together!<br><hr>
 ## *hey check this out first :* https://www.githubwrapped.io/MaitreyThakar
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MaitreyThakar/langs)](https://githubtrends.io)
 
 
 <hr>
